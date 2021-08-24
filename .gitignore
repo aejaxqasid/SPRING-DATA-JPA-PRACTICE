@@ -185,4 +185,8 @@ gradle-app.setting
 # Eclipse Core
 # JDT-specific (Eclipse Java Development Tools)
 
+<<<<<<< HEAD
 # End of https://www.toptal.com/developers/gitignore/api/java,eclipse,maven,gradle,windows
+=======
+# End of https://www.toptal.com/developers/gitignore/api/java,eclipse,maven,gradle,windows
+>>>>>>> branch 'main' of https://github.com/aejaxqasid1/SPRING-DATA-JPA-PRACTICE.git
